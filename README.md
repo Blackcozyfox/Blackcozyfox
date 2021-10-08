@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ńk@Blackcozyfox
+- 👋 Hi, I’m @ŃkBlackcozyfox
 - 👀 I’m interested in ... H4cking and analysing
 - 🌱 I’m currently learning ...Networking,and scripting languages
 - 💞️ I’m looking to collaborate on ...
